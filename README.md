@@ -5,7 +5,7 @@ Página destinada para mostrar meu desempenho, e evolução com a **Linguagem C*
 
 As aulas estão separadas em ordem numérica. - Sendo listadas do **02** e até o fim da nossa produção com o **Professor**.
 
-```css
+```c
 • Aula 02
 • Aula 03
 • Aula 04
@@ -13,4 +13,5 @@ As aulas estão separadas em ordem numérica. - Sendo listadas do **02** e até 
 • Aula 06 (Estrutura de Repetições)
 • Aula 07 (Exercícios e PROJETO)
 • Aula 08
+• Aula 09
 ``` 
